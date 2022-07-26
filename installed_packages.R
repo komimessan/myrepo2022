@@ -1,3 +1,9 @@
+#' ---
+#' author: "Komi Messan"
+#' date: "`r format(Sys.time(), '%d %B, %Y')`"
+#' output: github_document
+#' ---
+
 library(usethis)
 library(tidyverse)
 
